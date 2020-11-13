@@ -1,3 +1,3 @@
 # AppliedDeepLearning
 
-Assignment 1 : Implementation of Super Resolution
+SuperResolution.ipynb : Naive implementation of Super Resolution
